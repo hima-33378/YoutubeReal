@@ -1,0 +1,77 @@
+body{
+  background-color: black;
+}
+.menu{
+  background: black;
+  height:100vw;
+}
+.fa-bars{
+  font-size: 25px;
+  margin: 10px 10px;
+}
+.sidebar{
+  color: white;
+  margin: 0;
+  font-size: 17px;
+}
+.ss{
+  color: white;
+}
+.sidebar ul{
+  list-style: none;
+  margin: 0;
+  font-size: 15px;
+  padding-left: 10px;
+}
+.sidebar ul li{
+  
+  margin: 0px 0px 10px 20px;
+  padding: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  color: white;
+}
+.sidebar ul li:hover{
+  background: gray;
+}
+.linkmenu{
+  text-decoration: none;
+  
+}
+.icons{
+  margin-right: 20px;
+}
+.content{
+  background: black;
+  height: 100vw;
+  width: 100vw;
+}
+
+.size1{
+  font-size: 40 px;
+  padding-right: 10px;
+}
+ .bar ul li{
+  list-style: none;
+  padding: 5px 10px;
+ }
+.video{
+  width: 350px;
+  height: 250px;
+  border-radius:15%;
+}
+.row{
+  padding: 10px 20px 10px 20px;
+  color: white;
+}
+.sbar{
+  height: 60px;
+  width: 600px;
+}
+.Sb{
+  background: black;
+}
+.logodiv{
+  margin: 20px 0px 20px 0px;
+}
